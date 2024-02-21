@@ -24,8 +24,6 @@ warmStrategyCache({
   strategy: pageCache,
 });
 
-precacheAndRoute(self.__WB_MANIFEST);
-
 // TODO: Implement asset caching
 registerRoute(
   ({ request }) => ['style', 'script', 'worker'].includes(request.destination),
