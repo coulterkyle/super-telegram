@@ -18,11 +18,16 @@ By completing this project I was able to demonstrate `PWA` principals I learned 
 
 ## Installation
 
-Visit the deployed Render site at:
-
 Run the following commands in your integrated terminal to start the application locally.
 "npm install"
 "npm start"
+
+OR
+
+Visit the deployed Render site at:
+
+https://super-telegram.onrender.com
+
 
 To install the application, click on the "install" button at the top left of the screen and follow the prompt commands.
 
@@ -35,6 +40,8 @@ Click "install"
 ## Useage
 
 Use the editor as you would any other text editor, create notes or code snippets with JavaScript syntax highlighting - it will save your progress everytime you use it.
+
+![example-of-use](./assets/screenshots/highlight-example.png)
 
 To use this app offline, you will need to install the app.
 
@@ -52,7 +59,7 @@ Here you will find the newly installed application.
 
 ![jate-icon](./assets/screenshots/jate-icon.png)
 
-From here, you will no lomnger need a internet connection to run the application.
+From here, you will no longer need a internet connection to run the application and save your progress.
 
 ![app-open](./assets/screenshots/app-open.png)
 
